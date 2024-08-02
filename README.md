@@ -16,8 +16,8 @@ Getting Started:
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/PROShivamPatidar/wheatherApplication
+code 
+https://abhi2882002.github.io/weatherapp/
 Obtain an API key from the weather API provider and replace YOUR_API_KEY in script.js with your actual API key.
 
 Open index.html in your preferred web browser.
